@@ -27,3 +27,5 @@ function printNumbers2() {
   }
 
   printNumbers2();
+
+  //module scope... la vida de una variable se limita al archivo donde estè definida
